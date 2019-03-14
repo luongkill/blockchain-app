@@ -9,18 +9,20 @@
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.14",
     "es6-promisify": "^6.0.0",
     "ethers": "^4.0.27",
     "jquery": "^3.3.1",
     "p-timeout": "^2.0.1",
     "popper.js": "^1.14.7",
-    "vue": "^2.6.6",
+    "vue": "^2.6.8",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
     "@vue/cli-plugin-eslint": "^3.5.0",
     "@vue/cli-service": "^3.5.0",
+    "@vue/eslint-config-prettier": "^4.0.1",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",

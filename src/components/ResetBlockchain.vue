@@ -1,15 +1,11 @@
 <template>
-  <div>
-    
-  </div>
+  <div></div>
 </template>
 
 <script>
 export default {
-  name: 'block',
+  name: 'resetblockchain'
 }
 </script>
 
-<style>
-
-</style>
+<style></style>
